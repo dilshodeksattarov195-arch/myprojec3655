@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesrocess",
+        "uuid": 19802790,
+        "checksum": "k0pv4e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
